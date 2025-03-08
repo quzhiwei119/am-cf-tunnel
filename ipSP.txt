@@ -1,0 +1,8 @@
+27.50.49.61:443#新加坡 Cloudflare London1
+27.50.48.102:443#新加坡 Cloudflare London2
+27.50.48.204:443#新加坡 Cloudflare London3
+27.50.48.61:443#新加坡 Cloudflare London5
+92.243.74.180:443#新加坡 Cloudflare London6
+27.50.49.234:443#新加坡 Cloudflare London7
+206.238.236.63:443#新加坡 泰拉交易所1
+206.238.236.29:443#新加坡 泰拉交易所2
