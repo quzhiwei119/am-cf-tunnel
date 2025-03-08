@@ -1,7 +1,20 @@
-103.116.7.133:443#美国 Cloudflare London1
-103.116.7.67:443#美国 Cloudflare London2
-103.116.7.235:443#美国 Cloudflare London3
-103.116.7.248:443#美国 Cloudflare London5
-103.116.7.230:443#美国 Cloudflare London6
-103.116.7.103:443#美国 Cloudflare London7
-103.116.7.189:443#美国 Cloudflare London8
+152.70.155.147:443#美国Oracle1
+129.213.136.180:443#美国Oracle2
+150.136.87.192:443#美国Oracle3
+152.70.155.147:2083#美国Oracle5
+152.70.155.147:2096#美国Oracle6
+152.70.155.147:2053#美国Oracle7
+152.70.155.147:2087#美国Oracle8
+152.70.155.147:8443#美国Oracle9
+192.9.250.241:443#美国Oracle10
+129.159.84.71:443#美国Oracle11
+64.181.227.69:443#美国 Oracle12
+167.68.11.46:443#美国 Cloudflare London1
+147.185.161.225:443#美国 Cloudflare London2
+103.116.7.133:443#美国 Cloudflare London3
+103.116.7.67:443#美国 Cloudflare London5
+103.116.7.235:443#美国 Cloudflare London6
+103.116.7.248:443#美国 Cloudflare London7
+103.116.7.230:443#美国 Cloudflare London8
+103.116.7.103:443#美国 Cloudflare London9
+103.116.7.189:443#美国 Cloudflare London10
