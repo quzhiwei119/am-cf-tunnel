@@ -1,79 +1,80 @@
-IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
-47.236.255.207,443,443,true,SIN,Asia Pacific,SG,Singapore,261,2.76
-47.90.141.204,443,443,true,LAX,North America,US,Los Angeles,339,2.60
-47.237.163.242,443,443,true,SIN,Asia Pacific,SG,Singapore,276,2.52
-47.237.108.240,443,443,true,SIN,Asia Pacific,SG,Singapore,255,2.45
-8.222.218.213,443,443,true,SIN,Asia Pacific,SG,Singapore,288,2.40
-47.245.96.179,443,443,true,SIN,Asia Pacific,SG,Singapore,233,2.39
-47.245.98.98,443,443,true,SIN,Asia Pacific,SG,Singapore,217,2.38
-8.219.88.81,443,443,true,SIN,Asia Pacific,SG,Singapore,210,2.38
-47.237.69.41,443,443,true,SIN,Asia Pacific,SG,Singapore,278,2.37
-47.237.152.43,443,443,true,SIN,Asia Pacific,SG,Singapore,264,2.37
-47.245.94.67,443,443,true,SIN,Asia Pacific,SG,Singapore,225,2.37
-47.237.74.167,443,443,true,SIN,Asia Pacific,SG,Singapore,263,2.35
-47.237.22.78,443,443,true,SIN,Asia Pacific,SG,Singapore,163,2.34
-47.237.123.2,443,443,true,SIN,Asia Pacific,SG,Singapore,253,2.34
-8.222.172.251,443,443,true,SIN,Asia Pacific,SG,Singapore,121,2.30
-47.245.98.98,443,443,true,SIN,Asia Pacific,SG,Singapore,290,2.29
-47.245.94.67,443,443,true,SIN,Asia Pacific,SG,Singapore,129,2.14
-47.237.163.242,443,443,true,SIN,Asia Pacific,SG,Singapore,272,1.98
-8.219.186.59,443,443,true,SIN,Asia Pacific,SG,Singapore,260,1.98
-8.222.189.164,443,443,true,SIN,Asia Pacific,SG,Singapore,305,1.76
-47.236.51.144,443,443,true,SIN,Asia Pacific,SG,Singapore,246,1.74
-8.219.177.80,443,443,true,SIN,Asia Pacific,SG,Singapore,254,1.72
-8.222.240.37,443,443,true,SIN,Asia Pacific,SG,Singapore,247,1.50
-47.237.152.43,443,443,true,SIN,Asia Pacific,SG,Singapore,227,1.28
-8.222.189.164,443,443,true,SIN,Asia Pacific,SG,Singapore,262,1.07
-47.237.108.240,443,443,true,SIN,Asia Pacific,SG,Singapore,175,1.05
-8.222.134.183,443,443,true,SIN,Asia Pacific,SG,Singapore,288,1.01
-8.219.6.85,443,443,true,SIN,Asia Pacific,SG,Singapore,327,0.84
-149.129.250.187,443,443,true,SIN,Asia Pacific,SG,Singapore,272,0.73
-47.89.244.253,443,443,true,SJC,North America,US,San Jose,357,0.66
-149.129.250.187,443,443,true,SIN,Asia Pacific,SG,Singapore,226,0.62
-47.237.151.73,443,443,true,SIN,Asia Pacific,SG,Singapore,300,0.57
-8.222.134.183,443,443,true,SIN,Asia Pacific,SG,Singapore,298,0.53
-47.83.234.54,443,443,true,HKG,Asia Pacific,HK,Hong Kong,312,0.48
-47.236.181.185,8443,443,true,SIN,Asia Pacific,SG,Singapore,88,0.48
-149.129.8.215,443,443,true,SJC,North America,US,San Jose,292,0.47
-47.83.234.54,443,443,true,HKG,Asia Pacific,HK,Hong Kong,139,0.47
-8.219.182.233,443,443,true,SIN,Asia Pacific,SG,Singapore,233,0.45
-47.57.245.232,443,443,true,SJC,North America,US,San Jose,294,0.36
-47.57.13.107,443,443,true,HKG,Asia Pacific,HK,Hong Kong,291,0.17
-8.219.182.233,443,443,true,SIN,Asia Pacific,SG,Singapore,283,0.16
-47.91.18.127,443,443,true,NRT,Asia Pacific,JP,Tokyo,296,0.16
-47.91.18.127,443,443,true,NRT,Asia Pacific,JP,Tokyo,357,0.15
-47.254.65.110,443,443,true,SJC,North America,US,San Jose,318,0.14
-8.222.165.104,443,443,true,SIN,Asia Pacific,SG,Singapore,333,0.14
-47.254.65.110,443,443,true,SJC,North America,US,San Jose,377,0.14
-8.222.165.104,443,443,true,SIN,Asia Pacific,SG,Singapore,226,0.12
-8.219.178.99,443,443,true,SIN,Asia Pacific,SG,Singapore,248,0.09
-8.218.120.79,443,443,true,HKG,Asia Pacific,HK,Hong Kong,276,0.05
-8.218.120.79,443,443,true,HKG,Asia Pacific,HK,Hong Kong,319,0.04
-47.57.13.107,443,443,true,HKG,Asia Pacific,HK,Hong Kong,271,0.03
-47.80.3.26,443,443,true,ICN,Asia Pacific,KR,Seoul,87,0.02
-47.76.136.17,443,443,true,HKG,Asia Pacific,HK,Hong Kong,262,0.01
-47.243.237.160,443,443,true,HKG,Asia Pacific,HK,Hong Kong,250,0.01
-47.243.236.86,443,443,true,HKG,Asia Pacific,HK,Hong Kong,264,0.00
-47.243.10.94,8880,8880,false,HKG,Asia Pacific,HK,Hong Kong,54,0.00
-47.57.14.118,80,80,false,SJC,North America,US,San Jose,84,0.00
-47.74.155.26,80,80,false,SIN,Asia Pacific,SG,Singapore,85,0.00
-47.57.245.232,80,80,false,SJC,North America,US,San Jose,91,0.00
-47.74.155.26,80,80,false,SIN,Asia Pacific,SG,Singapore,94,0.00
-8.212.41.98,8080,8080,false,SJC,North America,US,San Jose,110,0.00
-47.57.245.232,80,80,false,SJC,North America,US,San Jose,127,0.00
-47.57.13.107,80,80,false,HKG,Asia Pacific,HK,Hong Kong,127,0.00
-47.57.13.107,80,80,false,HKG,Asia Pacific,HK,Hong Kong,136,0.00
-8.212.12.98,80,80,false,HKG,Asia Pacific,HK,Hong Kong,140,0.00
-47.243.237.160,8080,8080,false,HKG,Asia Pacific,HK,Hong Kong,157,0.00
-47.240.24.245,443,80,false,HKG,Asia Pacific,HK,Hong Kong,159,0.00
-47.238.163.16,80,443,false,HKG,Asia Pacific,HK,Hong Kong,159,0.00
-47.239.28.220,80,80,false,SJC,North America,US,San Jose,181,0.00
-47.243.237.160,8080,8080,false,HKG,Asia Pacific,HK,Hong Kong,194,0.00
-47.239.28.220,80,80,false,SJC,North America,US,San Jose,200,0.00
-47.240.24.245,443,80,false,HKG,Asia Pacific,HK,Hong Kong,209,0.00
-149.129.8.215,80,80,false,SJC,North America,US,San Jose,225,0.00
-149.129.8.215,80,80,false,SJC,North America,US,San Jose,246,0.00
-8.218.148.106,80,80,false,HKG,Asia Pacific,HK,Hong Kong,250,0.00
-47.90.141.204,80,80,false,LAX,North America,US,Los Angeles,255,0.00
-47.243.236.86,443,443,true,HKG,Asia Pacific,HK,Hong Kong,309,0.00
-8.209.119.190,80,80,false,SJC,North America,US,San Jose,350,0.00
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+48.209.148.15,8443,443,true,DUB,Europe,Dublin,317,11.68
+4.219.15.140,2053,443,true,CPH,Europe,Copenhagen,172,11.56
+4.219.15.140,8443,443,true,CPH,Europe,Copenhagen,188,11.47
+172.179.181.196,443,443,true,SEA,North America,Seattle,459,11.47
+20.33.30.36,2083,443,true,LAX,North America,Los Angeles,365,11.27
+20.217.216.51,8443,443,true,VIE,Europe,Vienna,235,11.20
+98.71.19.116,443,443,true,DUB,Europe,Dublin,165,11.20
+20.169.80.29,443,443,true,LAX,North America,Los Angeles,239,11.09
+4.242.220.94,8080,443,true,SJC,North America,San Jose,221,10.99
+4.221.60.243,2053,443,true,JNB,Africa,Johannesburg,234,10.91
+4.221.60.243,8443,443,true,JNB,Africa,Johannesburg,187,10.79
+20.217.216.51,2053,443,true,VIE,Europe,Vienna,276,10.45
+20.33.62.19,2083,443,true,LHR,Europe,London,378,10.31
+4.255.56.138,443,443,true,EWR,North America,Newark,456,10.19
+20.221.32.145,443,443,true,ORD,North America,Chicago,228,9.27
+74.249.233.213,443,443,true,ORD,North America,Chicago,264,8.81
+20.127.201.36,443,443,true,IAD,North America,Ashburn,248,8.80
+158.23.81.224,8443,443,true,DFW,North America,Dallas,260,8.52
+20.36.131.211,443,443,true,IAD,North America,Ashburn,424,8.46
+158.23.81.224,2053,443,true,DFW,North America,Dallas,252,8.43
+20.84.117.28,443,443,true,EWR,North America,Newark,411,8.33
+20.121.115.188,443,443,true,EWR,North America,Newark,279,8.19
+172.191.74.198,443,443,true,EWR,North America,Newark,447,8.12
+48.217.34.120,443,443,true,EWR,North America,Newark,543,8.08
+20.62.202.159,443,443,true,IAD,North America,Ashburn,325,8.06
+20.151.60.161,8443,443,true,YYZ,North America,Toronto,377,7.94
+40.79.73.114,8443,443,true,IAD,North America,Ashburn,447,7.84
+20.109.23.42,443,443,true,IAD,North America,Ashburn,382,7.84
+172.177.248.69,8443,443,true,IAD,North America,Ashburn,290,7.69
+20.228.249.211,8443,443,true,IAD,North America,Ashburn,338,7.62
+20.151.63.165,8443,443,true,YYZ,North America,Toronto,310,7.60
+4.172.225.98,8443,443,true,YYZ,North America,Toronto,292,7.56
+20.220.29.122,8443,443,true,YYZ,North America,Toronto,475,7.52
+20.25.205.37,2053,443,true,ORD,North America,Chicago,311,7.50
+20.25.205.37,8443,443,true,ORD,North America,Chicago,490,7.48
+20.228.249.211,2053,443,true,IAD,North America,Ashburn,218,7.46
+4.172.225.82,8443,443,true,YYZ,North America,Toronto,369,7.42
+172.212.108.47,443,443,true,IAD,North America,Ashburn,551,7.27
+172.174.249.255,443,443,true,EWR,North America,Newark,410,7.18
+40.123.41.147,8443,443,true,IAD,North America,Ashburn,621,7.16
+104.46.101.90,8443,443,true,IAD,North America,Ashburn,410,6.78
+104.46.111.142,8443,443,true,IAD,North America,Ashburn,404,6.61
+172.208.44.21,443,443,true,IAD,North America,Ashburn,288,6.53
+172.200.2.241,443,443,true,IAD,North America,Ashburn,468,6.08
+137.116.91.147,8443,443,true,IAD,North America,Ashburn,398,5.81
+4.248.47.209,8443,443,true,YUL,North America,Montréal,301,5.43
+191.235.86.71,2053,443,true,GRU,South America,São Paulo,699,4.02
+191.235.86.71,8443,443,true,GRU,South America,São Paulo,470,3.62
+20.82.142.108,8443,443,true,DUB,Europe,Dublin,247,3.25
+20.74.223.241,8080,443,true,ORD,North America,Chicago,570,2.72
+172.214.176.68,2053,443,true,ORD,North America,Chicago,786,0.48
+172.214.176.68,8443,443,true,ORD,North America,Chicago,442,0.43
+20.220.204.217,443,443,true,YYZ,North America,Toronto,483,0.07
+137.116.251.154,80,443,false,DUB,Europe,Dublin,160,0.02
+13.90.157.110,80,443,false,EWR,North America,Newark,259,0.02
+20.48.5.180,80,80,false,NRT,Asia Pacific,Tokyo,123,0.00
+40.66.63.160,80,80,false,CDG,Europe,Paris,147,0.00
+51.140.154.44,2086,2086,false,LHR,Europe,London,150,0.00
+51.140.44.206,2086,2086,false,LHR,Europe,London,150,0.00
+51.143.162.160,80,80,false,LHR,Europe,London,151,0.00
+104.40.244.228,80,80,false,AMS,Europe,Amsterdam,154,0.00
+13.95.193.125,80,443,false,AMS,Europe,Amsterdam,158,0.00
+51.141.162.228,80,80,false,SEA,North America,Seattle,177,0.00
+20.58.24.221,2086,2086,false,LHR,Europe,London,186,0.00
+172.179.181.196,80,80,false,SEA,North America,Seattle,191,0.00
+74.241.187.215,8080,80,false,ARN,Europe,Stockholm,195,0.00
+4.175.200.138,8080,80,false,AMS,Europe,Amsterdam,197,0.00
+51.140.191.188,2086,2086,false,LHR,Europe,London,214,0.00
+40.76.252.162,80,80,false,IAD,North America,Ashburn,223,0.00
+20.42.63.168,80,80,false,IAD,North America,Ashburn,225,0.00
+4.255.56.138,80,80,false,IAD,North America,Ashburn,230,0.00
+172.171.174.174,80,80,false,EWR,North America,Newark,236,0.00
+4.255.56.137,80,80,false,EWR,North America,Newark,239,0.00
+172.210.57.202,80,80,false,IAD,North America,Ashburn,239,0.00
+172.174.249.255,80,80,false,IAD,North America,Ashburn,254,0.00
+172.171.174.174,443,80,false,EWR,North America,Newark,272,0.00
+20.119.73.200,80,80,false,EWR,North America,Newark,277,0.00
+20.64.237.37,80,80,false,SEA,North America,Seattle,285,0.00
+172.191.74.198,8080,80,false,EWR,North America,Newark,290,0.00
