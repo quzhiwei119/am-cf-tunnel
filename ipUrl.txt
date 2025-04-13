@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/quzhiwei119/am-cf-tunnel/refs/heads/main/ipv4.csv
 https://raw.githubusercontent.com/quzhiwei119/am-cf-tunnel/refs/heads/main/ipv4.txt
+https://raw.githubusercontent.com/quzhiwei119/am-cf-tunnel/refs/heads/main/ipUS.txt
