@@ -5,3 +5,10 @@
 154.17.229.206#US2
 172.82.16.99#US3
 207.60.50.153#US5
+27.50.49.61:443#新加坡 Cloudflare London1
+27.50.48.102:443#新加坡 Cloudflare London2
+27.50.48.204:443#新加坡 Cloudflare London3
+27.50.48.61:443#新加坡 Cloudflare London5
+92.243.74.180:443#新加坡 Cloudflare London6
+27.50.49.234:443#新加坡 Cloudflare London7
+13.228.155.72#SG1 
